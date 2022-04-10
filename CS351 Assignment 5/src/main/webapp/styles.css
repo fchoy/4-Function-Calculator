@@ -1,0 +1,8 @@
+@charset "ISO-8859-1";
+
+.calculator-div{
+	height : 200px;
+	text-align : center;
+	display : block;
+	margin-top: 250px;
+}
